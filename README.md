@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/14b45edf3ff4cc8d53962.jpg" alt="Stark-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  STARK FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Stark+Filter+Bot!)
